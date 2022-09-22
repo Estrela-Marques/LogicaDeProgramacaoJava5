@@ -10,4 +10,6 @@
 - Leitura e escrita;
 - Escrevendo informações em arquivos de texto;
 - Lendo informações de um arquivo de texto;
-- Exercícios.
+- Biblioteca X Frameworks;
+- Criando minha própria bblioteca;
+- Uso de códigos de terceiros.
